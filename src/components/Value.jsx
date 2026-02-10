@@ -75,7 +75,7 @@ function Value() {
         </motion.div>
         <div className="flex flex-wrap gap-4">
           <a
-            href="/Hamisi_cv.pdf"
+            href="/Hamisi_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full bg-emerald-600 px-6 py-3 font-medium text-white hover:bg-emerald-500 transition-colors"

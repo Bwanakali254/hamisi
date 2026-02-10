@@ -8,7 +8,7 @@ function Footer() {
         </p>
         <div className="mb-6 flex justify-center gap-6">
           <a
-            href="/Hamisi_cv.pdf"
+            href="/Hamisi_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-slate-400 hover:text-white transition-colors"
